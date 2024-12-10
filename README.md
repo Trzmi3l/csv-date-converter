@@ -12,18 +12,17 @@ Universal date converter for csv files
 *   Follow instructions
 *   :)
 
+## Instalation
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+*   Download it [here](https://github.com/Trzmi3l/csv-date-converter/releases/tag/Release)
 
 
 ## Authors
 
 - [@Keameleek](https://github.com/Trzmi3l)
 
+## License
 
-## Instalation
+[MIT](https://choosealicense.com/licenses/mit/)
 
-*   Download it [here](https://github.com/Trzmi3l/csv-date-converter/releases/tag/Release)
+
