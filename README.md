@@ -23,3 +23,7 @@ Universal date converter for csv files
 
 - [@Keameleek](https://github.com/Trzmi3l)
 
+
+## Instalation
+
+*   Download it [here](https://github.com/Trzmi3l/csv-date-converter/releases/tag/Release)
